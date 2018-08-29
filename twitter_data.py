@@ -30,11 +30,11 @@ def create_table():
         print(str(e))
 create_table()
 
-#consumer key, consumer secret, access token, access secret.
-ckey="6deFtYjAzmSApH9JI8vMNJl0f"
-csecret="FQAFSw2wKXTo5UOTlO4vrX6ENwYK7RO34Tvg0iTGDchP7BVKFE"
-atoken="2238047674-hcDqQMpGM30aJUsn0XBeyUYR2HqLES8VyaYzWlU"
-asecret="3PYG0HEKQ9R6Z6TXQK4nhg7AZW8pLbngG9qbt8SslvwwZ"
+# Enter your consumer key, consumer secret, access token, access secret.
+ckey=""
+csecret=""
+atoken=""
+asecret=""
 
 class listener(StreamListener):
 
